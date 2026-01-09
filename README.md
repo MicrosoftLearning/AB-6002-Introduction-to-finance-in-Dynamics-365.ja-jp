@@ -1,0 +1,1 @@
+# AB-6002-Introduction-to-finance-in-Dynamics-365.ja-jp
