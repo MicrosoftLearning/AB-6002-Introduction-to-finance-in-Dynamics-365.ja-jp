@@ -2,6 +2,12 @@
 lab:
   title: '課題 3:買掛金勘定請求書を作成して支払う'
   module: 'Module 6: Describe accounts payables, accounts receivables, and credit and collections'
+  description: このラボでは、買掛金勘定請求書仕訳帳を作成して転記します。 次に、Dynamics 365 Finance で請求書の仕入先支払を作成します。
+  duration: 20 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
 ---
 
 # モジュール 6:買掛金勘定、売掛金勘定、クレジットとコレクションについて説明する

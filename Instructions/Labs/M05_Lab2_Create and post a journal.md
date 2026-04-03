@@ -2,6 +2,12 @@
 lab:
   title: 'ラボ 2:仕訳帳を作成して転記する'
   module: 'Module 5: Describe general ledgers and cash and bank management'
+  description: このラボでは、Dynamics 365 Finance で仕訳帳を作成、転記、表示します。 仕訳入力の目的は、勘定帳簿にビジネス トランザクションを記録することです。 仕訳入力は台帳に記録します。 次に、台帳を使用して、ビジネスの財務諸表を作成します。
+  duration: 10 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
 ---
 
 # モジュール 5:一般会計、現金、銀行の管理について説明する
