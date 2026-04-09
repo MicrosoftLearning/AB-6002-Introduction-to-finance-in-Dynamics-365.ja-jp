@@ -2,6 +2,10 @@
 lab:
   title: 'ラボ 4:予算登録エントリを作成して承認する'
   module: 'Module 7: Describe expense management, fixed asset management, and budgeting'
+  description: このラボでは、予算登録エントリを作成し、承認します。 その後、予算対実績のレポートを実行します。 2018 年 1 月の法人 USMF を基に作業します。これは、予算エントリと比較する、この期間の "実績" データが含まれているためです。
+  duration: 20 minutes
+  level: 100
+  islab: true
 ---
 
 # モジュール 7:経費管理、固定資産管理、予算作成について説明する

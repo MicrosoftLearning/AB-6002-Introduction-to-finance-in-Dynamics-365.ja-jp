@@ -2,6 +2,10 @@
 lab:
   title: 'ラボ 1:ワークスペースをカスタマイズする'
   module: 'Module 1: Describe the finance and operations apps'
+  description: このラボでは、フィルター処理済みビューを作成し、ワークスペースに追加します。 目標は、保留中の顧客に簡単にアクセスできるようにすることです。
+  duration: 10 minutes
+  level: 100
+  islab: true
 ---
 
 # モジュール 1:Dynamics 365 財務と運用アプリについて説明する
